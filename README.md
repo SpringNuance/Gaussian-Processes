@@ -19,4 +19,4 @@ This is the content of the class Gaussian Processes at **Aalto University**. It 
 
 ## Round 6
 
-![Bayesian Optimization](BO) 
+![Bayesian Optimization](https://github.com/SpringNuance/Gaussian-Processes/BO) 
