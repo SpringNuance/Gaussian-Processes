@@ -1,0 +1,62 @@
+5. Which factors in the course served to promote the accessibility of the teaching, encourage participation, and reduce discrimination (e.g. in the selected teaching and assessment methods, course material, or learning environment)?
+To encourage participation, the course has set up attendance points that students can only gain by attending exercise sessions. The teaching slides are adequate, but by no means throrough. The learning environment is available on zulip and the exercise session
+
+6. I think I will benefit from the things learnt on the course
+
+E = Not applicable
+
+1 = Strongly disagree
+
+2 = Disagree
+
+3 = Neither agree nor disagree
+
+4 = Agree
+
+5 = Strongly agree
+
+7. What was good about the course? Which factors in particular supported your learning?
+The good thing about this course is the exercise session that encourages on-time participation and feedback from students. The solutions from the exercise session has helped me realize what points that I have misunderstood.
+8. What needed improvement on the course? Which factors complicated your learning?
+Gaussian processes is a very hard topic to grasp and understand, as it is a distribution of functions, so this course should reserve more time for students to understand and work on the exercise. However, this course is too short and intense with two lectures a week and a very long exercise.
+- This course should have covered 2 periods instead of 1
+
+Additionally, there are so many inconsistencies in libraries incompatibility issues, like round 3 tensorflow and round 4 gpflow
+9. Provide feedback to lecturer Arno Solin (lec 1, 6, 7, 11)
+Lecture 1 It would be nice to provide an explanation why a kernel in Hilbert space is qualified as a covariance matrix
+Lecture 2 It would be nice if you gave the close form formula for Bayesian regression when mu is nonzero
+Lecture 3 The lecture slides list out all kinds of formulas but it is so hard to track what is the timeline and the relationship between the sections
+Lecture 4 This lecture slide is virtually hard to understand unless the students already took the course "Bayesian Data Analysis"
+Lecture 5 The exercises do not contain any questions related to this lecture slide so I cannot comment
+Lecture 6 Very advanced knowledge. It is expected that the students should have taken the course Advanced probabilistic methods to understand VI, LA and EM
+Lecture 7 Much as the many details, there is no single definition of what is sparse gaussian process
+Lecture 8 Very advanced knowledge so I cannot comment, but I would love to see what is the application of neural tangent network and how to code it in Python? I only saw them in research papers.
+Lecture 9 I wish if you could give an information on whether deep GP can make a prediction for point estimate using deep GP layers instead of a distribution
+Lecture 10 GPLVM is a nonlinear dimension reduction technique, so how could it be useful when the latent dimensions cannot reconstruct the original data?
+Lecture 11 it would be nice if the slide instructs how State-Space Gaussian Processes can be used to model time-series data, and how do they differ from other Gaussian Process models such as GP regression or GP classification?
+Lecture 12 I did apply Bayesian optimization to one of my project, but it performs quite bad compared to others. It would be nice if the lecture slide mention the performance of BO based on the predictive quality of the surrogate model. 
+
+10. Provide feedback to lecturer Ti John (lec 2, 3)
+11. Provide feedback to lecturer Aki Vehtari (lec 4)
+12. Provide feedback to lecturer Markus Heinonen (lec 5, 9, 10)
+13. Provide feedback to lecturer Martin Trapp (lec 8)
+14. Provide feedback to lecturer Aidan Scannell (let 12)
+
+15. The exercises on the course supported my learning?
+
+E = Not applicable
+
+1 = Strongly disagree
+
+2 = Disagree
+
+3 = Neither agree nor disagree
+
+4 = Agree
+
+5 = Strongly agree
+
+16. Provide feedback to course TAs
+
+The TAs are dedicated and provides some sensible explanations to counter arguments made by student during exercise sessions, because the exercises have so many different ways to implement. Additionally, they provide 1-to-1 help in the later half of the exercise session, which helps me focus on what and how the assignments should be completed. However, the major fault is that they are not very active on zulip, and there is only 1 session a week, given that this course is very advanced (assumed that students have already studied MLAPM and BDA). Please give us 2 exercise sessions a week, or make this course 2 periods long to give students time to think, read and reason on GP. 
+Overall, I admitted that the TAs are hardworking and I have nothing to complain.
